@@ -1,0 +1,6 @@
+Recess with CouchDB (recess_couch plugin)
+
+This is an example application how to use CouchDB with Recess with recess_couch
+Basically, this app is a port of Couchdb Rails Peepcode screencast.
+
+Thanks for a good couch_php library  (git://github.com/aventurella/couchdb_php.git)
